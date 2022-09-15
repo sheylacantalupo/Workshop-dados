@@ -35,13 +35,14 @@ insert into salario values(1,'DBA', 6000.00);
 insert into salario values(2,'Modelador', 5400.00);
 insert into salario values(3,'Analista', 7400.00);
 insert into salario values(4,'PO', 6800.00);
+insert into salario values(5,'QA', 5800.00);
 
 insert into colaborador (id, cpf, nome, nascimento, sexo, codigo_salario) 
 values (1, 1234567, 'Fernando', '1995-09-11', 'm',1);
 insert into colaborador (id, cpf, nome, nascimento, sexo, codigo_salario) 
 values (2, 2581454, 'Maria', '1991-02-17', 'f',2);
 insert into colaborador (id, cpf, nome, nascimento, sexo, codigo_salario) 
-values (3, 2156325, 'Felipe', '1979-07-14', 'm',3), (4, 20123014, 'Marcela', '1992-04-01', 'f',4);
+values (3, 2156325, 'Felipe', '1979-07-14', 'm',3), (4, 20123014, 'Marcela', '1992-04-01', 'f',4), (5, 24123714, 'Caroline', '1990-05-01', 'f',4);
 
 
 
