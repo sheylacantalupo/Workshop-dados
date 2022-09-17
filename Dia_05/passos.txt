@@ -1,0 +1,30 @@
+- Realizei o download e instalação do interpretador da linguagem R e a IDE RStudio
+e tomar como base inicial o script da do workshop;
+- Escolhi um arquio csv referente as cidades do mundo onde possuem a maior parte da populaço mundial;
+- Neste conjunto de dados, temos dados populacionais históricos para cada país/território do mundo por
+ diferentes parâmetros, como tamanho da área do país/território, nome do continente, nome da capital, 
+densidade, taxa de crescimento populacional, classificação com base na população, Percentual da 
+População Mundial, etc;
+- meu objetivo é...
+
+- O primeiro passo foi importar o arquivo csv para o RStudio, onde busquei entender melhor o comando
+setwd, usado definir o diretório de trabalho ;
+
+- Percebi que é sempre bom verificar a estrutura dos dados antes de usar as funções;
+
+- Usando o comando dim() obtive exatamente a quantidade de linhas e colunas do dataframe;
+
+- Com o intuito de saber os nomes das colunas para posteriormente renomear as que eu considerar 
+necessário, utilizei o comando names();
+
+- Tive dificuldades para consegir usar o comando rename() mas erro foi solucionado após a instalação
+do pacote dplyr 
+
+- Confesso que no início desse desafio senti um pouco de receito, embora 
+seja semelhante a python, nunca tive contato com R. Os primeiros erros começaram a aparecer,
+mas aos poucos, com determinação e seguindo as orientações que nos foram passadas, fui superando 
+os erros e sanando as dúvidas uma a uma. Fico imensamente satisfeita por, aos poucos, 
+aprender a usar o poder da informação, como também, desenvolver habilidades que serão fundamentais para 
+minha vida profissional.
+
+
